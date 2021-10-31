@@ -1,6 +1,9 @@
 {
     "Cosmetics": [
-        {
+      {
+        "name": "placeholder"
+      },
+      {
           "itemtype": "skin",
           "name": "Aura To Fresh Aura",
           "icon": "https://static.wikia.nocookie.net/fortnite/images/5/5e/Fresh_Aura_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/512?cb=20210919025042.png",
